@@ -7,7 +7,7 @@
 - ⚡ C++ / Python / Go.
 - ✍️ [Blogger](https://jiangxavier.online)
 
-| <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiangXavier&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiangXavier&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiangXavier&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiangXavier&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!-- 之前的主题theme:tokyonight -->
 ### Languages and Tools:  
