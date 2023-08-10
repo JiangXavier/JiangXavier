@@ -1,5 +1,13 @@
-### Hi there 👋 
-<div> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JiangXavier&show_icons=true&theme=tokyonight" /><img height="150px" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiangXavier&layout=compact" />  </div>
+### Yoo, I'm Jiang 👋
+
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
+[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
+
+- 🍻 [UESTC](https://www.uestc.edu.cn), _BSc in Computer Science_
+- ⚡ C++ / Python / Go.
+- ✍️ [Blogger](https://jiangxavier.online)
+
+| <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiangXavier&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiangXavier&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
 ### Languages and Tools:  
 <div>
@@ -12,3 +20,4 @@
   <img height="30" src="https://img.shields.io/badge/Nginx-green.svg" />
   <img height="30" src="https://img.shields.io/badge/Mysql-orange.svg" />
 <div>
+
