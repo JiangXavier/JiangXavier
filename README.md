@@ -8,12 +8,10 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Jiang Xavier&center=true&size=27" alt="Typing SVG" />
   </div>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
+</p>
 
-
-
-<div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
-</div>
 
 
 - 🍻  _BSc in Computer Science_ [UESTC](https://www.uestc.edu.cn) ;  _MSc in Computer Engineering_ [NUS](https://www.nus.edu.sg/)
