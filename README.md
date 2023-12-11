@@ -1,3 +1,5 @@
+
+  
 ### Yoo, I'm Jiang 👋 
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -10,21 +12,16 @@
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
   
-  <!-- profile logo 个人资料徽标 -->
-
-  <!--
-  <div align="center">
-    ##<a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-<p><b>Technology has the power to make the world a better place</b></p>
-
-</div>
 
 - 🍻  _BSc in Computer Science_ [UESTC](https://www.uestc.edu.cn) ;  _MSc in Computer Engineering_ [NUS](https://www.nus.edu.sg/)
 - ⚡ Go / Python / C++ / C.
-- ✍️  
+
+<!-- 
+  <div>
+  - ✍️
+      <img src="https://komarev.com/ghpvc/?username=JiangXavier&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>   
+-->
 
 | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiangXavier&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiangXavier&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -43,5 +40,3 @@
   <img height="30" src="https://img.shields.io/badge/Linux-purple.svg" />
 <div>
 
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
