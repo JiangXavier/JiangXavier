@@ -41,3 +41,7 @@
   <img height="30" src="https://img.shields.io/badge/Mysql-orange.svg" />
   <img height="30" src="https://img.shields.io/badge/Linux-purple.svg" />
 <div>
+  
+### Leetcode: 
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/jexoelly?theme=light&font=Roboto%20Flex&site=cn)
