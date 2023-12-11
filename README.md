@@ -1,10 +1,9 @@
-### Yoo, I'm Jiang 👋
+### Yoo, I'm Jiang 👋 
+
   <!-- dynamic typing effect 动态打字效果 -->
 
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Lorin 洛林&center=true&size=27" alt="Typing SVG" />
-    </a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Jiang Xavier&center=true&size=27" alt="Typing SVG" />
   </div>
 
 
@@ -25,12 +24,9 @@
 
 </div>
 
-
-
-
 - 🍻  _BSc in Computer Science_ [UESTC](https://www.uestc.edu.cn) ;  _MSc in Computer Engineering_ [NUS](https://www.nus.edu.sg/)
 - ⚡ Go / Python / C++ / C.
-- ✍️ [Blogger](https://jiangxavier.online)
+- ✍️  
 
 | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiangXavier&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiangXavier&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -49,3 +45,5 @@
   <img height="30" src="https://img.shields.io/badge/Linux-purple.svg" />
 <div>
 
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
