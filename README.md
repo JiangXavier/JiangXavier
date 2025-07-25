@@ -5,24 +5,36 @@
   <!-- dynamic typing effect 动态打字效果 -->
 
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Jiang Xavier&center=true&size=27" alt="Typing SVG" />
-  </div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
-</p>
+  <!-- dynamic typing effect 动态打字效果 -->
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27)](https://git.io/typing-svg)
 
 
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
 
 - 🍻  _BSc in Computer Science_ [UESTC](https://www.uestc.edu.cn) ;  _MSc in Computer Engineering_ [NUS](https://www.nus.edu.sg/)
-- ⚡ Go / Python / C++ / C.
+- ⚡ Go / Python / C++ / JAVA / C#. 
 
-<!-- 
-  <div>
-  - ✍️
-      <img src="https://komarev.com/ghpvc/?username=JiangXavier&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>   
--->
+<!-- - 😀
+      <img src="https://komarev.com/ghpvc/?username=JiangXavier&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp; <!-- profile logo 个人资料徽标 -->
 
 
 | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiangXavier&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JiangXavier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiangXavier&layout=compact&theme=buefy&hide_border=true" /></a> |
